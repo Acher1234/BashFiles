@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-NAME="John"
+NAME="acher"
 echo "Hello $NAME!"
