@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+if [${#1} > 10 ];then 
+	echo "ok"
+else
+	echo "not ok"
+fi
